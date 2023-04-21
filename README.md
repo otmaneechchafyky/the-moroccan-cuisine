@@ -78,14 +78,14 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="#">N/A</a></li>
+    <li><a href="#">n/a</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="#">N/A</a></li>
+    <li><a href="#">n/a</a></li>
   </ul>
 </details>
 
@@ -103,6 +103,8 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://echchafykyotmane.github.io/first-capstone-project/)
+
+- presentation of the Project : https://www.loom.com/share/0d4bd5b796a444c28b7858fe21debc69
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -222,7 +224,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/echchafykyotmane/first-capstone-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,7 +232,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give it a star
+If you like this project give it a ⭐️
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

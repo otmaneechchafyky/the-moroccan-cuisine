@@ -597,6 +597,26 @@ footer p {
   font-weight: 600;
 }
 
+.load {
+  width: 90%;
+  padding: 1rem;
+  background: transparent;
+  border: 1px solid var(--lightgray);
+  color: var(--sogray);
+  font-size: 1.2rem;
+  font-family: var(--mainfont);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2%;
+  height: 4rem;
+  display: none;
+}
+
+.load svg {
+  width: 2rem;
+}
+
 /* top chef mobile */
 
 @media (max-width: 768px) {
@@ -611,6 +631,15 @@ footer p {
     justify-content: start;
     padding: 2rem 0;
     gap: 2rem;
+  }
+
+  .load {
+    display: flex;
+  }
+
+  .delete-chef {
+    border: 3px solid red;
+    display: none !important;
   }
 }
 
@@ -743,7 +772,7 @@ footer {
   gap: 1rem;
 }
 
-.logo-info h4 {
+.logo-info h2 {
   color: var(--sogray);
   opacity: 0.8;
   font-size: 2rem;
@@ -866,7 +895,7 @@ footer {
     gap: 2rem;
   }
 
-  .logo-info h4 {
+  .logo-info h2 {
     font-size: 1.5rem;
     width: 60%;
     text-align: center;
