@@ -62,8 +62,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [FIRST CAPSTONE PRJECT] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[FIRST CAPSTONE PRJECT]** is a Website of two pages of some Moroccan recipes and the Traditional Moroccan kitchen.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -120,7 +118,6 @@ After you're finished please remove all the comments and instructions!
 
 > You can follow the instructions bellow to start using the website
 
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -135,8 +132,6 @@ Clone this repository to your desired folder:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -178,8 +173,6 @@ Feel free to check the [issues page](https://github.com/echchafykyotmane/first-c
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Kifle for his inspiration and motivation for all the time
 
