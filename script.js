@@ -83,7 +83,7 @@ for (let i = 0; i <= topChefs.length; i += 1) {
     `;
   chef.classList.add('chef');
   chefs.appendChild(chef);
-  if(i >= 2) {
-    chef.classList.add('delete-chef')
+  if (i >= 2) {
+    chef.classList.add('delete-chef');
   }
 }
