@@ -26,11 +26,9 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>MOROCCAN KITCHEN</b></h3>
 
 </div>
 
@@ -55,47 +53,45 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [FIRST CAPSTONE PRJECT] <a name="about-project"></a>
+# 📖 [MOROCCAN KITCHEN] <a name="about-project"></a>
 
-**[FIRST CAPSTONE PRJECT]** is a Website of two pages of some Moroccan recipes and the Traditional Moroccan kitchen.
+
+**[MOROCCAN KITCHEN]** is a Website of two pages of some Moroccan recipes and the Traditional Moroccan kitchen.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> I used HTML and javascript and css to finish this projects.
-
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">JAVASCRIPT</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">JAVASCRIPT</a></li>
+    <li><a href="#">N/A</a></li>
   </ul>
 </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> I used some animated images and also some transformations.
 
 - **[CSS animation]**
 - **[CSS transform]**
@@ -106,8 +102,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> https://echchafykyotmane.github.io/first-capstone-project/
-
 - [Live Demo Link](https://echchafykyotmane.github.io/first-capstone-project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -116,16 +110,82 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> You can follow the instructions bellow to start using the website
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ npm install
+```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+<!--
+Example commands:
 
+```sh
   cd my-folder
   git clone https://github.com/echchafykyotmane/first-capstone-project.git
+```
+--->
 
+### Install
+
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  npm install
+```
+--->
+
+### Usage
+
+To run the project, execute the following command:
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  Run it on your live server
+```
+--->
+
+### Deployment
+
+The project is already deployed  at github pages
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -145,8 +205,6 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> I will add some functionality to the buttons and some new pages.
-
 - [ ] **[Add funcionality to show more and show less buttons]**
 - [ ] **[Add a new page for recipes]**
 
@@ -158,7 +216,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/echchafykyotmane/first-capstone-project/issues).
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,7 +224,7 @@ Feel free to check the [issues page](https://github.com/echchafykyotmane/first-c
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Please show me your support by clicking the ⭐️
+If you like this project give it a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,7 +232,11 @@ Feel free to check the [issues page](https://github.com/echchafykyotmane/first-c
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Kifle for his inspiration and motivation for all the time
+
+I would like to thank [Cindy Shin](https://www.behance.net/adagio07) for the design
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,7 +245,5 @@ I would like to thank Kifle for his inspiration and motivation for all the time
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
