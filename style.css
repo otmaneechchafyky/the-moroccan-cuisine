@@ -91,7 +91,7 @@ header .main-header .hamburger {
 
 footer a h3 {
   width: 60%;
-  color: #fff;
+  color: var(--redorange);
 }
 
 .for-about .logo-container h3 {
