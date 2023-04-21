@@ -116,6 +116,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+- npm install
 
 <!--
 Example command:
@@ -128,6 +129,8 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+- cd my-folder
+- git clone https://github.com/echchafykyotmane/first-capstone-project.git
 
 <!--
 Example commands:
@@ -141,6 +144,8 @@ Example commands:
 ### Install
 
 Install this project with:
+- cd my-project
+- npm install
 
 <!--
 Example command:
@@ -154,7 +159,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
-
+- Run it on your live server
 <!--
 Example command:
 
@@ -166,6 +171,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+- n/a
 
 <!--
 Example command:
