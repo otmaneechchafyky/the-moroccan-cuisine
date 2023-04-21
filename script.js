@@ -6,18 +6,18 @@ const links = document.querySelectorAll('.nav-link');
 // Set up the menu                                                  SET UP THE MENU
 
 hamburger.addEventListener('click', () => {
-    navbar.classList.add('active-menu');
+  navbar.classList.add('active-menu');
 });
 
 exitMenu.addEventListener('click', () => {
-    navbar.classList.remove('active-menu');
+  navbar.classList.remove('active-menu');
 });
 
 links.forEach((elm) => {
-    elm.addEventListener('click', () => {
-        navbar.classList.remove('active-menu');
-    });
-})
+  elm.addEventListener('click', () => {
+    navbar.classList.remove('active-menu');
+  });
+});
 
 // Chefs
 
@@ -60,12 +60,11 @@ const topChefs = [
   },
 ];
 
-const featuredChef = document.querySelector('.featured-chef');
 const chefs = document.querySelector('.chefs');
 
-for(let i = 0; i <= topChefs.length; i += 1) {
-    const chef = document.createElement('div');
-    chef.innerHTML = `
+for (let i = 0; i <= topChefs.length; i += 1) {
+  const chef = document.createElement('div');
+  chef.innerHTML = `
     
           <div class="image-container">
             <img src="${topChefs[i].image}" alt="Chef Image" />
@@ -82,7 +81,6 @@ for(let i = 0; i <= topChefs.length; i += 1) {
           </div>
     
     `;
-    chef.classList.add('chef');
-    chefs.appendChild(chef);
+  chef.classList.add('chef');
+  chefs.appendChild(chef);
 }
-
