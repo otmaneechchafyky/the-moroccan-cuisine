@@ -692,6 +692,7 @@ footer p {
     height: auto;
     padding: 3rem 0;
     gap: 2rem;
+    display: none;
   }
 }
 
@@ -707,7 +708,15 @@ footer {
 }
 
 @media (max-width: 768px) {
-  footer {
+  .for-main {
+    height: auto;
+    padding: 3rem 0;
+    justify-content: space-around;
+    align-items: center;
+    display: none;
+  }
+
+  .for-about {
     height: auto;
     padding: 3rem 0;
     justify-content: space-around;
