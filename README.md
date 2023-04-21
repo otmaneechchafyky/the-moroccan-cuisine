@@ -102,9 +102,11 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://echchafykyotmane.github.io/first-capstone-project/)
+- [Live Demo Link](https://otmane-echchafyky.github.io/first-capstone-project/)
 
-- presentation of the Project : https://www.loom.com/share/944a41d2cb1b442587b5622baab82d22
+- presentation of the Project : 
+
+https://www.loom.com/share/31e8d98b97614ab9b2cb7db206a5f305
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
