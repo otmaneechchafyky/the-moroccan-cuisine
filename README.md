@@ -35,7 +35,7 @@ After you're finished please remove all the comments and instructions!
 <div align="center">
   
 
-  <h3><b>MOROCCAN KITCHEN</b></h3>
+  <h3><b>The Moroccan Cuisine</b></h3>
 
 </div>
 
@@ -109,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://otmane-echchafyky.github.io/first-capstone-project/)
+- [Live Demo Link](https://otmaneechchafyky.github.io/the-moroccan-cuisine/about.html)
 
 - presentation of the Project : 
 
