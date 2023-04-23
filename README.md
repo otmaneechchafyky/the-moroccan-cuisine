@@ -30,8 +30,6 @@ After you're finished please remove all the comments and instructions!
   <img src="./Assets/pf-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>The Moroccan Kitchen</b></h3>
-
 </div>
 
 <div align="center">
