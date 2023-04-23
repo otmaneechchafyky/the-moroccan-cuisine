@@ -87,9 +87,3 @@ for (let i = 0; i <= topChefs.length; i += 1) {
     chef.classList.add('delete-chef');
   }
 }
-
-const load = document.getElementById('load');
-
-load.addEventListener('click', () => {
-  console.log('ok')
-});
